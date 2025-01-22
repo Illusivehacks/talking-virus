@@ -1,6 +1,6 @@
-# talking-virus
+# Talking-virus
 
-# Automated Keystroke Script with Embedded Word Document
+# Automated Word Document with Embedded Talking-virus
 
 ## Project Overview
 This project demonstrates the use of a Python script to simulate keystrokes and automate activities on a device. Additionally, the project includes an attached Word document with an embedded VBScript that serves as a demonstration payload. This is designed for educational and research purposes only, particularly in the context of security and forensics.
@@ -39,7 +39,7 @@ loop
 ### Steps to Use
 1. **Clone the Repository**
    ```bash
-   git clone 
+   git clone https://github.com/Illusivehacks/talking-virus.git
    cd your-repo-name
    ```
 2. **Install Required Files**
