@@ -9,8 +9,7 @@ This project demonstrates the use of a Python script to simulate keystrokes and 
 
 ---
 
-## Features
-- Simulates keystrokes using Python.
+## Features.
 - Automates typing, execution of commands, and interacting with the device.
 - Includes a Word document embedded with a VBScript payload for testing.
 - Aesthetic design and structured instructions for ease of use.
@@ -35,8 +34,6 @@ loop
 ## Setup Instructions
 
 ### Prerequisites
-- Python 3.8 or higher
-- Libraries: `pyautogui`, `keyboard`, or `pynput`
 - Microsoft Word (for viewing the attached document)
 
 ### Steps to Use
@@ -45,17 +42,12 @@ loop
    git clone 
    cd your-repo-name
    ```
-2. **Install Required Libraries**
-   ```bash
-   pip install pyautogui keyboard pynput
-   ```
-3. **Execute the Python Script**
-   Run the Python script to simulate keystrokes:
-   ```bash
-   python keystroke_script.py
-   ```
+2. **Install Required Files**
+
+3. **Execute the word document ir the  Script**
+   
 4. **Open the Word Document**
-   - Locate the `embedded_payload.docx` in the project directory.
+   - Locate the `embedded_macros` in the project directory.
    - Open the file and follow any instructions provided within.
 
 > **Important:** Ensure that macros and embedded scripts are enabled in Microsoft Word to test the VBScript.
